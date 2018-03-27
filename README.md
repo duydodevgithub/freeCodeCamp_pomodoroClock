@@ -7,7 +7,7 @@
     * Javascript
     * Jquery
 ### URL
-    http://github.com - automatic!
-[GitHub](http://github.com)
+    https://codepen.io/duydodev/pen/NYwpwJ
+[Pomodoro Clock](https://codepen.io/duydodev/pen/NYwpwJ)
 
 ![Image of Pomodoro](/pomodoro.png)
