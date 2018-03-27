@@ -7,5 +7,5 @@
     * Javascript
     * Jquery
 ### URL
-    * https://codepen.io/duydodev/pen/NYwpwJ
+    * https://codepen.io/duydodev/pen/NYwpwJ - automatic!
 ![Image of Pomodoro](/pomodoro.png)
