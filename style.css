@@ -1,0 +1,21 @@
+
+#page {
+    width: 960px;
+    text-align: center;
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 10px auto 100px auto;
+    overflow: auto;
+}
+
+#time{
+    font-size: 96px;
+    margin: 30px;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
