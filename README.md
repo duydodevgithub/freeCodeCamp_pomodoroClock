@@ -1,2 +1,2 @@
 # freeCodeCamp_pomodoroClock
-/pomodoro.png
+![Image of Pomodoro](/pomodoro.png)
