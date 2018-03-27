@@ -6,4 +6,6 @@
     * CSS
     * Javascript
     * Jquery
+### URL
+    * https://codepen.io/duydodev/pen/NYwpwJ
 ![Image of Pomodoro](/pomodoro.png)
